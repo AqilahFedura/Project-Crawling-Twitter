@@ -1,2 +1,2 @@
 # Project-Crawling-Twitter
-Crawling twitter using python that crawl some tweets that related to disaster in Indonesia.
+This project is a data crawling project that utilizes the Twitter and web news platforms as objects to be crawled. The programming language used for this crawling is Python. The system for this project is to search for keywords related to "natural disasters in Indonesia" then collect tweets and keywords related to natural disasters and label the data. This is done so that it will provide a solution for the government so that it can detect natural disasters in Indonesia and can easily find out what the community needs.
